@@ -3,11 +3,12 @@
 This project explores the dynamic nature of flight pricing using real-time data scraped from EaseMyTrip over 15 days. It employs data analytics and machine learning to provide insights into pricing patterns and make reliable price predictions.
 
 
+
 ## Project Overview
 
 The airline industry experiences frequent price fluctuations, making it challenging for travelers to book cost-effective flights. This project utilizes big data techniques to analyze and predict airfare trends, offering valuable insights for passengers and airlines.
 
----
+
 
 ## Objective
 
@@ -15,7 +16,7 @@ The airline industry experiences frequent price fluctuations, making it challeng
 - Identify key pricing patterns based on flight parameters like travel class, stops, and destinations.
 - Predict flight prices using machine learning algorithms to aid in cost-effective travel planning.
 
----
+
 
 ## Dataset
 
@@ -28,7 +29,7 @@ The dataset includes:
 - **Selenium**: For automated scraping from EaseMyTrip.
 - **openpyxl**: For data storage in Excel files.
 
----
+
 
 ## Technologies Used
 
@@ -36,7 +37,7 @@ The dataset includes:
 - **Libraries**: Selenium, pandas, matplotlib, seaborn
 - **Visualization Tools**: Boxplots, histograms, line charts, sunburst charts
 
----
+
 
 ## Key Features
 
@@ -44,7 +45,7 @@ The dataset includes:
 - **Visualization of Insights**: Provides trends in pricing, stops, and departure times.
 - **Class-Specific Analysis**: Highlights distinctions among Economy, Premium Economy, and First Class pricing.
 
----
+
 
 ## Data Cleaning Process
 
@@ -54,7 +55,7 @@ The dataset includes:
 - **Stops Information**: Simplified stop details to numeric values (e.g., "Nonstop," "1 Stop").
 - **Consolidation**: Combined daily datasets into a unified dataset for analysis.
 
----
+
 
 ## Visualization Insights
 
@@ -74,7 +75,7 @@ The dataset includes:
    - Economy has consistent pricing across hours.
    - Premium Economy and First Class show significant variability during peak hours.
 
----
+
 
 ## Future Scope
 
